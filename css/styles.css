@@ -58,3 +58,14 @@ section.demo div p {
     text-align: center;
 }
 
+section#task2 div{
+   justify-content: center
+}
+section#task3 div{
+    justify-content: space-between
+ }
+ 
+ section#task4 div{
+    justify-content: flex-end
+     
+ }
